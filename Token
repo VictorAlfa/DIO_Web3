@@ -1,3 +1,6 @@
+//https://goerli.etherscan.io/token/0x6bc1b3a1db12e815fc13be5f0e9d18dffe432a70#code
+//https://goerli.etherscan.io/tx/0xcc2b23e41605e6a0898e56ba0104c54d55fe238a63c735ffa0cf7706664420bd
+
 pragma solidity ^0.4.24;
  
 //Safe Math Interface
